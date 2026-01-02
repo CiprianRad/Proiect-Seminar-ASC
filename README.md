@@ -23,28 +23,6 @@ The application demonstrates:
 
 ---
 
-## Project Structure
-
-- Proiect_Seminar/
-- main.asm — Program entry point
-- ui.asm — User interface and menu logic
-- printer.asm — Printing routines
-- converter.asm — Hexadecimal → binary conversion
-- sorter.asm — Sorting routines
-- rotator.asm — Bit/byte rotation logic
-- byte_searcher.asm — Byte analysis (counting 1 bits)
-- exception.asm — General exception handling
-- FILE_EXCEPTION.asm — File-related exceptions
-- BUILD.BAT — Build automation script
-- LINKFILE.LNK — Linker configuration
-- *.OBJ — Compiled object files
-- MAIN.EXE — Final executable
-- *.MAP — Memory maps
-- hexa.txt — Example input file
-
-
-
-
 ---
 
 ## ▶️ Application Features
